@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/statics/icons/icon-384x384.png"
   },
   {
-    "revision": "a1a45c46a45adf51e127",
-    "url": "/js/app.a1a45c46.js"
+    "revision": "72ac4f8162da7745c3a0",
+    "url": "/js/app.72ac4f81.js"
   },
   {
     "revision": "20c6420ccf16a07d9d56538e30a6b524",
@@ -48,31 +48,31 @@ self.__precacheManifest = [
     "url": "/statics/icons/apple-icon-152x152.png"
   },
   {
-    "revision": "2f9d7587924933c1912c342b190b53ca",
-    "url": "/statics/icons/favicon-32x32.png"
-  },
-  {
     "revision": "3020c8ac2c2872dec7741e5948520093",
     "url": "/statics/icons/icon-128x128.png"
+  },
+  {
+    "revision": "2f9d7587924933c1912c342b190b53ca",
+    "url": "/statics/icons/favicon-32x32.png"
   },
   {
     "revision": "efb00e57304380d857603760600da5d5",
     "url": "/statics/icons/favicon-16x16.png"
   },
   {
-    "revision": "7786be7304988957c227",
-    "url": "/2.4527fc5f.css"
+    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
+    "url": "/fonts/KFOkCnqEu92Fr1MmgVxIIzQ.e9dbbe8.woff"
   },
   {
     "revision": "bd99cc99bbe4e8d78a43",
     "url": "/js/0.bd99cc99.js"
   },
   {
-    "revision": "f9e2b8ce0f0402bcdfa6",
-    "url": "/js/1.f9e2b8ce.js"
+    "revision": "0f07ac8e3136eb1a43aa",
+    "url": "/js/1.0f07ac8e.js"
   },
   {
-    "revision": "fcb207c0820d3239107ea0c91a84df85",
+    "revision": "192ec6c84c864f9ec21ad98acdc96e4d",
     "url": "/index.html"
   },
   {
@@ -96,11 +96,7 @@ self.__precacheManifest = [
     "url": "/fonts/KFOlCnqEu92Fr1MmEU9fBBc-.de8b743.woff"
   },
   {
-    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
-    "url": "/fonts/KFOkCnqEu92Fr1MmgVxIIzQ.e9dbbe8.woff"
-  },
-  {
-    "revision": "a1a45c46a45adf51e127",
+    "revision": "72ac4f8162da7745c3a0",
     "url": "/app.6a4e0ef2.css"
   },
   {
@@ -108,7 +104,11 @@ self.__precacheManifest = [
     "url": "/3.0affa915.css"
   },
   {
-    "revision": "f9e2b8ce0f0402bcdfa6",
+    "revision": "7786be7304988957c227",
+    "url": "/2.4527fc5f.css"
+  },
+  {
+    "revision": "0f07ac8e3136eb1a43aa",
     "url": "/1.a4b40596.css"
   }
 ];
