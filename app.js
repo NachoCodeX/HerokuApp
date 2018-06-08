@@ -10,12 +10,12 @@ const history=require('connect-history-api-fallback');
 app.use(history());
 
 // app.use(express.static(path.join(__dirname,'public')));
-app.use(serveStatic(path.join(__dirname,'public','spa-mat')));
+app.use(serveStatic(path.join(__dirname,'public','pwa-mat')));
 
 
 
 
-app.get('*',(req,res)=>res.sendFile(path.join(__dirname,'public','spa-mat','index.html')));
+app.get('*',(req,res)=>res.sendFile(path.join(__dirname,'public','pwa-mat','index.html')));
 
 
 
